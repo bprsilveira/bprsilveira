@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bprsilveira
 - 👀 I’m interested in internships and junior job opportunities
-- 🌱 I’m currently learning object oriented programming and languages like Java, Kotlin, C/C++, Cobol and such.
+- 🌱 I’m currently learning object oriented programming and languages like Apex, Java, Kotlin, C/C++, Cobol and Salesforcerealted development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email: bprsilveira@gmail.com
 
